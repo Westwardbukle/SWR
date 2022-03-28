@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Services
 {
-    class Square
+    public class Square
     {
         /// <summary>
         /// Вычесляет корни квадратного уравнения
