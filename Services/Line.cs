@@ -11,8 +11,8 @@ namespace Services
         /// <summary>
         /// Вычесляет линейное уравнение
         /// </summary>
-        /// <param name="k">Первый </param>
-        /// <param name="m"></param>
+        /// <param name="k">Первый кооф</param>
+        /// <param name="m">Второй кооф</param>
         /// <returns> Результат вычесления линейного уравнения </returns>
         public static string LineMethod(double k, double m)
         {
